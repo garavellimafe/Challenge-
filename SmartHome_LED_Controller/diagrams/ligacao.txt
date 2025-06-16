@@ -1,0 +1,6 @@
+[Arduino UNO]
+  ├── Pino 2  ── Botão Manual ── GND
+  ├── Pino 3  ── Botão Presença ── GND
+  ├── Pino 4  ── Botão Temperatura ── GND
+  ├── Pino 5  ── Botão Energia ── GND
+  └── Pino 13 ── LED ── Resistor 220Ω ── GND
